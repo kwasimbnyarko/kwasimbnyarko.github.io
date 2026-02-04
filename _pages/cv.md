@@ -19,7 +19,7 @@ Education
 Work Experience
 ===============
 
-* AI Researcher
+* **AI Researcher**
   * Affiliation: Republic of Korea Army
   * Dates: January 2020 - July 2021
 
