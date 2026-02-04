@@ -19,9 +19,10 @@ Education
 Work experience
 ===============
 
-* AI Researcher
-  * Afiiliation: Republic of Korea Army
-  * Dates: January 2020 - July 2021
+### AI Researcher
+
+* Afiiliation: Republic of Korea Army
+* Dates: January 2020 - July 2021
 
 Research Projects
 =================
@@ -39,12 +40,21 @@ Research Projects
 * Dates: Fall 2025 - Present
 * Principal Investigators: Jin-Hee Cho, Junghwan Kim
 
+Teaching
+========
+
+* Fall 2024: CS 3654 - Introductory Data Analytics and Visualization (Graduate Teaching Assistant)
+* Spring 2025: CS 5804 - Introduction to Artificial Intelligence (Graduate Teaching Assistant)
+
 Publications
 ============
 
-<ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>
+{% assign pubs = site.publications | sort: "date" | reverse %}
+{% for post in pubs %}
+  <li>{{ post.citation }}{% if post.paperurl %} <a href="{{ post.paperurl }}">[Link]</a>{% endif %}</li>
+{% endfor %}
+</ul>
 
 Talks
 =====
@@ -52,9 +62,3 @@ Talks
 <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-
-Teaching
-========
-
-* Fall 2024: CS 3654 - Introductory Data Analytics and Visualization (Graduate Teaching Assistant)
-* Spring 2025: CS 5804 - Introduction to Artificial Intelligence (Graduate Teaching Assistant)
