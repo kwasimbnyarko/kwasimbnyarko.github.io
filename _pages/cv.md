@@ -6,59 +6,55 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+=========
+
+* Ph.D in Computer Science, Virginia Tech, 2028 (expected)
+* M.S. in Computer Science, Georgia Tech, 2023
+* M.A. in Quantitative Methods in the Social Sciences, Columbia University, 2019
+* B.A. in Economics, Education, Emory University, 2017
 
 Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+===============
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* AI Researcher
+  * Afiiliation: Republic of Korea Army
+  * Dates: January 2020 - July 2021
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Research Projects
+=================
+
+### Using Intelligent Conversational Agents to Empower Adolescents to be Resilient Against Cybergrooming
+
+* Funding: National Science Foundation (NSF)
+* Dates: Fall 2024 - Present
+* Principal Investigators: Jin-Hee Cho, Pamela J. Wisniewski, Lifu Huang, Sang Won Lee
+* Website: [Link](https://wordpress.cs.vt.edu/rylai/)
+
+### AI-Powered Solution for Cyber Scam Prevention: Empowering Community Support for Older Adults
+
+* Funding: Commonwealth Cyber Initiative (CCI) and OpenAI
+* Dates: Fall 2025 - Present
+* Principal Investigators: Jin-Hee Cho, Junghwan Kim
 
 Publications
-======
-  <ul>{% for post in site.publications reversed %}
+============
+
+<ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
-======
-  <ul>{% for post in site.talks reversed %}
+=====
+
+<ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+========
+
+* Fall 2024: CS 3654 - Introductory Data Analytics and Visualization (Graduate Teaching Assistant)
+* Spring 2025: CS 5804 - Introduction to Artificial Intelligence (Graduate Teaching Assistant)
