@@ -1,22 +1,27 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "GUARD: A Hierarchical Deep Reinforcement Learning Chatbot for Cybergrooming Prevention (Talk)<br />ACM Capital Region Celebration of Women in Computing (CAPWIC 2025); Washington, DC, USA",
+    38.8950368,
+    -77.0365427
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "A2CL: AI-Augmented Cognitive Learning for Adaptive Anti-Scam Training in Older Adults<br />Commonwealth Cyber Initiative (CCI) Symposium; Richmond, VA, USA",
+    37.5385087,
+    -77.43428
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "StagePilot: A Deep Reinforcement Learning Agent for Stage-Controlled Cybergrooming Simulation<br />ACM Capital Region Celebration of Women in Computing (CAPWIC 2026); Washington, DC, USA",
+    38.8950368,
+    -77.0365427
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "GUARD: Grooming Understanding and Action via Reinforcement-based Defense (Poster)<br />Commonwealth Cyber Initiative (CCI) Student Researcher Showcase; Blacksburg, VA, USA",
+    37.2296566,
+    -80.4136767
+  ],
+  [
+    "AI-Powered Solution for Cyber Scam Prevention: Empowering Community Support for Older Adults<br />Commonwealth Cyber Initiative (CCI) Student Researcher Showcase; Blacksburg, VA, USA",
+    37.2296566,
+    -80.4136767
   ]
 ];
