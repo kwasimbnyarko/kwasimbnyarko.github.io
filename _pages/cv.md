@@ -57,6 +57,13 @@ Publications
 Talks
 =====
 
-<ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+<ul>
+{% assign talks = site.talks | sort: "date" | reverse %}
+  {% for post in talks %}
+    <li>
+      <strong>{{ post.title }}</strong>, 
+      {{ post.venue }}{% if post.location %}, {{ post.location }}{% endif %}, 
+      {{ post.date | date: "%B %d, %Y" }}
+    </li>
+  {% endfor %}
+</ul>
