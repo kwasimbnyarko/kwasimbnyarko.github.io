@@ -44,6 +44,8 @@ Teaching
 * Fall 2024: CS 3654 - Introductory Data Analytics and Visualization (Graduate Teaching Assistant)
 * Spring 2025: CS 5804 - Introduction to Artificial Intelligence (Graduate Teaching Assistant)
 
+
+<!-- DONT TOUCH ANYTHING BELOW HERE -->
 Publications
 ============
 
