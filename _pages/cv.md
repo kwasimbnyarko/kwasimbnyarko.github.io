@@ -45,7 +45,7 @@ Teaching
 
 
 <!-- DONT TOUCH ANYTHING BELOW HERE -->
-<!-- Uncomment when Ready -->
+<!-- Uncomment when Ready | Do same with ./_data/navigation.yml -->
 
 <!-- Publications
 ============
