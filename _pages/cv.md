@@ -11,17 +11,16 @@ redirect_from:
 Education
 =========
 
-* Ph.D in Computer Science, Virginia Tech, 2028 (expected)
-* M.S. in Computer Science, Georgia Tech, 2023
-* M.A. in Quantitative Methods in the Social Sciences, Columbia University, 2019
-* B.A. in Economics, Education, Emory University, 2017
+* Ph.D in Computer Science, Virginia Tech, 2029 (expected)
+* M.S. in Computer Science, Virginia Tech, 2026 (expected)
+* B.A. in Computer Engineering, K.N.U.S.T, 2023
 
 Work Experience
 ===============
 
-* **AI Researcher**
-  * Affiliation: Republic of Korea Army
-  * Dates: January 2020 - July 2021
+* **Software Engineer & Researcher**
+  * Affiliation: DIPPER Lab, KNUST
+  * Dates: Octiber 2023 - July 2024
 
 Research Projects
 =================
@@ -41,12 +40,14 @@ Research Projects
 Teaching
 ========
 
-* Fall 2024: CS 3654 - Introductory Data Analytics and Visualization (Graduate Teaching Assistant)
-* Spring 2025: CS 5804 - Introduction to Artificial Intelligence (Graduate Teaching Assistant)
+* Fall 2024: CS 2114 - Software Design & Data Structures (Graduate Teaching Assistant)
+* Fall 2025: CS 3114/5040 - Data Structures & Algorithms (Graduate Teaching Assistant)
 
 
 <!-- DONT TOUCH ANYTHING BELOW HERE -->
-Publications
+<!-- Uncomment when Ready -->
+
+<!-- Publications
 ============
 
 <ul>
@@ -68,4 +69,4 @@ Talks
       {{ post.date | date: "%B %d, %Y" }}
     </li>
   {% endfor %}
-</ul>
+</ul> -->

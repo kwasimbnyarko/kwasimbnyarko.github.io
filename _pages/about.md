@@ -7,22 +7,22 @@ redirect_from:
   - /about.html
 ---
 <!-- TODO -->
-I am a second-year Ph.D. student in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://www.vt.edu/), advised by Professor [Jin-Hee Cho](https://website.cs.vt.edu/people/faculty/jin-hee-cho.html). I am a member of the [Trustworthy Cyberspace Lab (tClab)](https://people.cs.vt.edu/~jicho/). My research lies at the intersection of artificial intelligence and cybersecurity, with a focus on reinforcement learning, large language models, and human-centered system design for online safety and security.
+I am a second-year Ph.D. student in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://www.vt.edu/), advised by Professor [Cliff Shaffer](https://website.cs.vt.edu/people/faculty/clifford-shaffer.html). My research lies at the intersection of Software Engineering and Computer Science Education, with focus on Equitable Grading Paractices, Parsons Problems and Tool Interoperability.
 
 ## Research Interests
 
-**Goal-Directed Reinforcement Learning**
-Designing reinforcement learning agents that achieve structured, goal-oriented behavior in complex and interactive environments.
+**Equitable Grading Practices**
+Studying grading systems and pracitces that promote fairness, transparency, and learning. Focusing on how they impact student motivation, engagement, and outcomes in large CS courses.
 
-**Modular LLM Guardrails and Safety**
-Developing modular and audience-specific guardrails to guide large language model behavior and mitigate harmful or inappropriate outputs.
+**Tool Interoperability**
+Exploring interoperability among educational tools and platforms, with a focus on reducing instructor overhead and enabling scalable, data-informed teaching practices in computer science courses.
 
-**Human–LLM Interaction**
-Understanding and analyzing how people interact with and utilize LLM-based systems in real-world and educational contexts.
+**Parsons Problems**
+Using Parsons problems as a scaffolded assessment and learning tool, particularly how variations in structure and adaptivity can support novices and reduce cognitive load in programming education.
 
-**AI for Cybersecurity Education**
-Designing AI-driven approaches for online safety, including scam and cybergrooming prevention.
+**Human/Student–LLM Interaction**
+Investigating how students use generative AI tools in programming contexts, and how these tools can be integrated responsibly to support learning while preserving meaningful assessment.
 
-## News
+<!-- ## News -->
 
-* **Feb 3, 2026** Hello World!
+<!-- * **Feb 9, 2026**  -->
