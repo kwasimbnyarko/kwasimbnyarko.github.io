@@ -22,7 +22,7 @@ Work Experience
   * Affiliation: DIPPER Lab, KNUST
   * Dates: Octiber 2023 - July 2024
 
-Research Projects
+<!-- Research Projects
 =================
 
 * **Using Intelligent Conversational Agents to Empower Adolescents to be Resilient Against Cybergrooming**
@@ -35,7 +35,7 @@ Research Projects
 
   * Funding: Commonwealth Cyber Initiative (CCI) and OpenAI
   * Dates: Fall 2025 - Present
-  * Principal Investigators: Jin-Hee Cho, Junghwan Kim
+  * Principal Investigators: Jin-Hee Cho, Junghwan Kim -->
 
 Teaching
 ========
