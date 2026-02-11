@@ -15,12 +15,16 @@ Education
 * M.S. in Computer Science, Virginia Tech, 2026 (expected)
 * B.A. in Computer Engineering, K.N.U.S.T, 2023
 
-Work Experience
+Experience
 ===============
+
+* **Graduate Research Assisant**
+  * Affiliation: Digital Education Lab, Virginia Tech
+  * Dates: August 2024 - Present
 
 * **Software Engineer & Researcher**
   * Affiliation: DIPPER Lab, KNUST
-  * Dates: Octiber 2023 - July 2024
+  * Dates: October 2023 - July 2024
 
 <!-- Research Projects
 =================
