@@ -26,16 +26,22 @@ Experience
   * Affiliation: DIPPER Lab, KNUST
   * Dates: October 2023 - July 2024
 
-<!-- Research Projects
+Research Projects
 =================
 
-* **Using Intelligent Conversational Agents to Empower Adolescents to be Resilient Against Cybergrooming**
+* **Parsons Problems Interoperability Standards**
 
-  * Funding: National Science Foundation (NSF)
+  <!-- * Funding: National Science Foundation (NSF) -->
   * Dates: Fall 2024 - Present
-  * Principal Investigators: Jin-Hee Cho, Pamela J. Wisniewski, Lifu Huang, Sang Won Lee
-  * Website: [Link](https://wordpress.cs.vt.edu/rylai/)
-* **AI-Powered Solution for Cyber Scam Prevention: Empowering Community Support for Older Adults**
+  * Principal Investigators: Cliff Shaffer, Stephen Edwards, Barb Ericson
+  * Website: [Link](https://cssplice.org/parsons/index.html)
+* **Equitable Grading Practices**
+
+  <!-- * Funding: Commonwealth Cyber Initiative (CCI) and OpenAI -->
+  <!-- * Dates: Fall 2025 - Present -->
+  * Principal Investigators: Stephen Edwards
+
+<!-- * **AI-Powered Solution for Cyber Scam Prevention: Empowering Community Support for Older Adults**
 
   * Funding: Commonwealth Cyber Initiative (CCI) and OpenAI
   * Dates: Fall 2025 - Present
